@@ -1,0 +1,11 @@
+name,entity_type,annual_revenue,loan_portfolio_pct,npa_pct,region
+MicroLend Capital,NBFC,12000000,78,3.5,Karnataka
+PayFlow India,PSP,45000000,5,0.2,Maharashtra
+RuralCredit NBFC,NBFC,8000000,92,6.8,Rajasthan
+UrbanPay PSP,PSP,150000000,3,0.1,Delhi
+SmallBiz Finance,NBFC,5400000,64,4.2,Tamil Nadu
+MerchantServe,PSP,22000000,8,0.5,Kerala
+AgriLoan NBFC,NBFC,3200000,88,9.1,Bihar
+MetroPayments PSP,PSP,98000000,2,0.05,Gujarat
+WorkerLend NBFC,NBFC,4100000,70,5.0,West Bengal
+NeoCredit NBFC,NBFC,27000000,55,2.5,Uttar Pradesh
