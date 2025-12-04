@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pdfplumber
+tika
+beautifulsoup4
+requests
+python-multipart
+pydantic
+sqlalchemy
+alembic
+pandas
+scikit-learn
+joblib
+streamlit
+python-dotenv
+pytest
+python-dateutil
